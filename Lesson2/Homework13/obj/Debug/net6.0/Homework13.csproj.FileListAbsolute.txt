@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\bin\Debug\net6.0\Homework13.exe
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\bin\Debug\net6.0\Homework13.deps.json
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\bin\Debug\net6.0\Homework13.runtimeconfig.json
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\bin\Debug\net6.0\Homework13.dll
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\bin\Debug\net6.0\Homework13.pdb
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.dll
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\refint\Homework13.dll
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.pdb
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\Homework13.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson2\Homework13\obj\Debug\net6.0\ref\Homework13.dll
