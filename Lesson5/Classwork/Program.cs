@@ -34,21 +34,33 @@
 
 
 //////////////////////////////////////////////////////////////////////////////////
-int[] nums = new int[12];
-Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+// int[] nums = new int[12];
+// Console.WriteLine("Введите число: ");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-for(int i = 0;i < nums.Length;i++){
-    nums[i] = new Random().Next(-9,10);
-    Console.Write(nums[i] + " ");
-}
-Console.WriteLine();
-string result = "нет";
-for(int j = 0;j < nums.Length;j++){
-    if(nums[j] == num){
-        result = "Да";
-        break;
-    }
+// for(int i = 0;i < nums.Length;i++){
+//     nums[i] = new Random().Next(-9,10);
+//     Console.Write(nums[i] + " ");
+// }
+// Console.WriteLine();
+// string result = "нет";
+// for(int j = 0;j < nums.Length;j++){
+//     if(nums[j] == num){
+//         result = "Да";
+//         break;
+//     }
     
+// }
+// Console.WriteLine(result);
+////////////////////////////////////////////////////////////////////////////////
+int[] numbers = {1,2,3,4,5};
+
+for(int i = 0 ; i < numbers.Length/2;i++){
+    Console.Write(numbers[i] * numbers[numbers.Length - 1 - i]);
 }
-Console.WriteLine(result);
+if(numbers.Length % 2 != 0){
+    Console.WriteLine(numbers[numbers.Length/2]);
+}
+
+
+
