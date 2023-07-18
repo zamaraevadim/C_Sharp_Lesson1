@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\bin\Debug\net6.0\Homework21.exe
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\bin\Debug\net6.0\Homework21.deps.json
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\bin\Debug\net6.0\Homework21.runtimeconfig.json
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\bin\Debug\net6.0\Homework21.dll
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\bin\Debug\net6.0\Homework21.pdb
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.dll
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\refint\Homework21.dll
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.pdb
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\Homework21.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\lessons\lessons\Lesson3\Homework21\obj\Debug\net6.0\ref\Homework21.dll
