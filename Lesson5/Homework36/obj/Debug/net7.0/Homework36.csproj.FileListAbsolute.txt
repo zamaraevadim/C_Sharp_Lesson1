@@ -1,0 +1,15 @@
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\bin\Debug\net7.0\Homework36.exe
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\bin\Debug\net7.0\Homework36.deps.json
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\bin\Debug\net7.0\Homework36.runtimeconfig.json
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\bin\Debug\net7.0\Homework36.dll
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\bin\Debug\net7.0\Homework36.pdb
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.csproj.AssemblyReference.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.AssemblyInfoInputs.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.AssemblyInfo.cs
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.dll
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\refint\Homework36.dll
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.pdb
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\Homework36.genruntimeconfig.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson5\Homework36\obj\Debug\net7.0\ref\Homework36.dll
