@@ -16,6 +16,7 @@ for(int i = 0;i < nums.GetLength(0);i++){
         nums[i,j] = new Random().Next(0,10);
     }
 }
+
 for(int i = 0;i < nums.GetLength(0);i++){
     for(int j = 0;j < nums.GetLength(1);j++){
         Console.Write(nums[i,j] + " ");
