@@ -1,0 +1,15 @@
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\bin\Debug\net7.0\Classwork.exe
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\bin\Debug\net7.0\Classwork.deps.json
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\bin\Debug\net7.0\Classwork.runtimeconfig.json
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\bin\Debug\net7.0\Classwork.dll
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\bin\Debug\net7.0\Classwork.pdb
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.csproj.AssemblyReference.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.AssemblyInfoInputs.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.AssemblyInfo.cs
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.dll
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\refint\Classwork.dll
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.pdb
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\Classwork.genruntimeconfig.cache
+D:\GeekBrains\Lessons\C_Sharp_Lesson1\Lesson8\Classwork\obj\Debug\net7.0\ref\Classwork.dll
