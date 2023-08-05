@@ -1,0 +1,15 @@
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\bin\Debug\net6.0\Homework66.exe
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\bin\Debug\net6.0\Homework66.deps.json
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\bin\Debug\net6.0\Homework66.runtimeconfig.json
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\bin\Debug\net6.0\Homework66.dll
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\bin\Debug\net6.0\Homework66.pdb
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.dll
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\refint\Homework66.dll
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.pdb
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\Homework66.genruntimeconfig.cache
+C:\Users\Vadim\Desktop\lessons\C_Sharp_Lesson1\Lesson9\Homework66\obj\Debug\net6.0\ref\Homework66.dll
