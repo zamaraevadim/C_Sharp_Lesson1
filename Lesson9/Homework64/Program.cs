@@ -2,9 +2,9 @@
 // N = 5 -> "5, 4, 3, 2, 1"
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
-int n = Convert.ToInt32(Console.ReadLine()); // Задаем значение N
+int n = Convert.ToInt32(Console.ReadLine()); 
 
-recursionMethod(n); // Вызываем функцию для вывода чисел
+recursionMethod(n);
 
 Console.ReadLine();
 
